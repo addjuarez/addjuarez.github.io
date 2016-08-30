@@ -3,8 +3,8 @@ layout: post
 title: Week One!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+What did I do this past week?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+What's in my way?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+What will I do next week?
