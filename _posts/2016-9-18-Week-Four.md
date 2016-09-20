@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week One!
+---
+
 **What did I do this past week?**
 
 This past week mainly involved me looking over the Netflix project and brainstorming some ideas and looking for a partner to join in in this project. I also reviewed the material we learned in class which was more of what does this piece of python code do. This week it was mainly over iteration. We also had a guess speaker who was a developer at Bloomberg talk about his company and what he does. He gave some insight on recruiting and what to expect when working.
