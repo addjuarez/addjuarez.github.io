@@ -1,4 +1,0 @@
-switch router
-process
-linux
-connect to server
