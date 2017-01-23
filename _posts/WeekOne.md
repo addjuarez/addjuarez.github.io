@@ -16,4 +16,4 @@ I will do the readings and perhaps try to learn some C++ on my own since we have
 So far, the class is similar to software engineering with Fraij. Though his class was based on Downing’s software engineering class. So far, I enjoy the class and can tell it will be a tough class already. The daily quizzes are annoying in my opinion but they do make you pay attention in class.
 
 **Tip of the Week**
-I am using Jekyll for my blog since I used it for CS 373 and it worked pretty well. All I needed to do was fork the repo https://github.com/jekyll/jekyll and edit a few files and it was done.
+I am using Jekyll for my blog since I used it for CS 373 and it worked pretty well. All I needed to do was fork the jekyll repo  and edit a few files and it was done.
