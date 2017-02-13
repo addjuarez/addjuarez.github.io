@@ -5,6 +5,7 @@ title: Week four!
 
 **What did I do this past week?**
 Last week we went over pointer and references again since part of the class still had trouble with them. Then we went over arrays and linked list and how pointers work with them. Finally we went over iterators and how to make functions more flexible with their parameters types by using templates. I also found myself a partner and started on the voting project. 
+
 **What's in my way?**
 Right now the c++ voting project in the main thing on my plate right now. It is much more involved since we have to start from scratch and it requires more than a few loops and arrays to solve this it this time.
 
