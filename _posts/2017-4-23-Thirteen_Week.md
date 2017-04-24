@@ -3,6 +3,7 @@ layout: post
 title: Week Thirteen!
 ---
 
+
 **What did I do this past week?**
 Last week in class we went over abstract classes and virtual methods on C++ and Java. We talked about the similarities and the differences between how they both behave in the languages. Outside of class I spent most of my time working on the Life project with my partner. It was a lot harder than I thought trying to get the clone methods to work and trying to manage memory was a real pain.
 
